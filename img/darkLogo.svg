@@ -1,0 +1,14 @@
+<svg  viewBox="0 7 100 28"  xmlns="http://www.w3.org/2000/svg">
+<style>
+ .or { font: italic bold 30px Nunito;fill: #34964c; }
+.m { font: 10px Nunito; fill: #080707; }
+.udra { font: italic 30px serif; fill: #ff0000; }
+</style>
+<text
+>
+  <tspan x="0" y="30" class="or">O</tspan>
+  <tspan x="7" y="25" class="m">m</tspan>
+  <tspan x="20" y="35" class="or">R</tspan>
+  <tspan x="40" y="35" class="udra">udra</tspan>
+  </text>
+</svg>
